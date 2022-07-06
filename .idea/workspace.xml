@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="636634d4-ae74-4eb8-9395-3c0f0633a27d" name="Changes" comment="chapter 1">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/CLassExample2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ClassExample1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ClassExample3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Example3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Example4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Example5.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="636634d4-ae74-4eb8-9395-3c0f0633a27d" name="Changes" comment="chapter 2">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ClassEx1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ClassProp.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ClassProp2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/EmpCalc.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Models.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,9 +25,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -48,45 +46,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.ClassExample3Kt">
-    <configuration name="CLassExample2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CLassExample2Kt" />
+}]]></component>
+  <component name="RunManager" selected="Kotlin.EmpCalcKt">
+    <configuration name="ClassEx1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassEx1Kt" />
       <module name="Kotlin_Basics.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassExample1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClassExample1Kt" />
+    <configuration name="ClassProp2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassProp2Kt" />
       <module name="Kotlin_Basics.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassExample3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClassExample3Kt" />
+    <configuration name="ClassPropKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassPropKt" />
       <module name="Kotlin_Basics.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example4Kt" />
+    <configuration name="EmpCalcKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmpCalcKt" />
       <module name="Kotlin_Basics.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example5Kt" />
+    <configuration name="ModelsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ModelsKt" />
       <module name="Kotlin_Basics.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ClassExample3Kt" />
-        <item itemvalue="Kotlin.CLassExample2Kt" />
-        <item itemvalue="Kotlin.ClassExample1Kt" />
-        <item itemvalue="Kotlin.Example5Kt" />
-        <item itemvalue="Kotlin.Example4Kt" />
+        <item itemvalue="Kotlin.EmpCalcKt" />
+        <item itemvalue="Kotlin.ClassProp2Kt" />
+        <item itemvalue="Kotlin.ClassPropKt" />
+        <item itemvalue="Kotlin.ModelsKt" />
+        <item itemvalue="Kotlin.ClassEx1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +110,8 @@
       <option name="presentableId" value="Default" />
       <updated>1656758138693</updated>
       <workItem from="1656758140686" duration="4144000" />
-      <workItem from="1656841115878" duration="6641000" />
+      <workItem from="1656841115878" duration="6706000" />
+      <workItem from="1657101406335" duration="5288000" />
     </task>
     <task id="LOCAL-00001" summary="chapter 1">
       <created>1656761303937</created>
@@ -120,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656761303937</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chapter 2">
+      <created>1656847949434</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656847949434</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +148,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="chapter 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 1" />
+    <MESSAGE value="chapter 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 2" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
